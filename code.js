@@ -1,1 +1,1 @@
-hello word
+right
